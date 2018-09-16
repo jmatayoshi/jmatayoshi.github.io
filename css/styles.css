@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+  /*font-family: Helvetica;*/
+  /*font-family: Consolas;*/
+}
+
+#content{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.container-fluid{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+body {
+  margin-bottom: 100px;
+}
+  
+p.p1 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+li {
+  margin: 0 0 0.5em 0;
+}
+
+#header-nav {
+  background-color: darkgray;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-header h1 {
+  font-size: 1.75em;
+}
+
+.navbar-header a {
+  color: black;
+}
+.navbar-header p {
+  font-size: 1em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+#long-container{
+	height: 1000px;
+	background: grey;
+}
+
+#nav-list a {
+  color: black;
+  text-align: center;
+  font-size: 1.8em;
+  /*font-weight: bold;*/
+}
+
+#nav-list a:hover {
+  text-decoration: underline;
+}
+
+.top-link{
+	text-decoration: underline;
+} 
+
+.publication-link {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  /*margin-top: -30px;*/
+  margin-top: -65px;
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .container-fluid{
+      margin-left: 20px;
+      margin-right: 20px;
+  }  
+
+  #collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.4em;
+  }  
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  #collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+  }
+}
