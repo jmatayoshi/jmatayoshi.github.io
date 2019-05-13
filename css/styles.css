@@ -32,6 +32,11 @@ li {
   margin: 0 0 0.5em 0;
 }
 
+.nobull {
+  list-style-type: none;
+  padding-left: 0.5em;
+}
+
 #header-nav {
   background-color: darkgray;
   border-radius: 0;
