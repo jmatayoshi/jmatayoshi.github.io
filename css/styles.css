@@ -125,3 +125,13 @@ li {
       margin-right: 0px;
   }  
 }
+
+/********** Extra, extra small devices only **********/
+@media (max-width: 445px) {
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -90px;
+}  
+
+
+}
