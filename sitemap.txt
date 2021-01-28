@@ -16,3 +16,5 @@ https://jmatayoshi.github.io/publications/US2019_negative_learning_alert.pdf
 https://jmatayoshi.github.io/publications/EJC2020_union_closed_well_graded.pdf
 https://jmatayoshi.github.io/publications/JEDM2020_L_star.pdf
 https://jmatayoshi.github.io/publications/RMJM2012_real_zeros.pdf
+https://jmatayoshi.github.io/publications/JMP2021_KST_ALEKS_preprint.pdf
+https://jmatayoshi.github.io/publications/IJAIED2021_assessment_stopping_preprint.pdf
