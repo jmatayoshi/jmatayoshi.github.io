@@ -18,3 +18,4 @@ https://jmatayoshi.github.io/publications/JEDM2020_L_star.pdf
 https://jmatayoshi.github.io/publications/RMJM2012_real_zeros.pdf
 https://jmatayoshi.github.io/publications/JMP2021_KST_ALEKS_preprint.pdf
 https://jmatayoshi.github.io/publications/IJAIED2021_assessment_stopping_preprint.pdf
+https://jmatayoshi.github.io/publications/LAK2021_sequence_analysis.pdf
