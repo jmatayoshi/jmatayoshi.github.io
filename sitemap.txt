@@ -12,10 +12,13 @@ https://jmatayoshi.github.io/publications/UCI2009_dissertation.pdf
 https://jmatayoshi.github.io/publications/EDM2018_forgetting.pdf
 https://jmatayoshi.github.io/publications/iTextbooks2020_automated_matching.pdf
 https://jmatayoshi.github.io/publications/NPSC2013_wireless_communications.pdf
-https://jmatayoshi.github.io/publications/US2019_negative_learning_alert.pdf
+https://jmatayoshi.github.io/publications/US2020_negative_learning_alert.pdf
 https://jmatayoshi.github.io/publications/EJC2020_union_closed_well_graded.pdf
 https://jmatayoshi.github.io/publications/JEDM2020_L_star.pdf
 https://jmatayoshi.github.io/publications/RMJM2012_real_zeros.pdf
 https://jmatayoshi.github.io/publications/JMP2021_KST_ALEKS_preprint.pdf
 https://jmatayoshi.github.io/publications/IJAIED2021_assessment_stopping_preprint.pdf
 https://jmatayoshi.github.io/publications/LAK2021_sequence_analysis.pdf
+https://jmatayoshi.github.io/publications/AIED2021_at_risk_pred.pdf
+https://jmatayoshi.github.io/publications/AIED2021_progress_update.pdf
+https://jmatayoshi.github.io/publications/EDM2021_multiple_comparisons.pdf
