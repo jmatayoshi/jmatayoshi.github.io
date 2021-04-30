@@ -59,7 +59,7 @@ li {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid black;
+  border: 1.2px solid black;
 }
 
 #long-container{
@@ -104,7 +104,10 @@ li {
       margin-left: 10px;
       margin-right: 10px;
   }  
-
+  #content{
+      margin-left: 20px;
+      margin-right: 20px;
+  }  
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.4em;
   }  
@@ -124,14 +127,21 @@ li {
       margin-left: 0px;
       margin-right: 0px;
   }  
+  #content{
+      margin-left: 10px;
+      margin-right: 10px;
+  }  
 }
 
 /********** Extra, extra small devices only **********/
 @media (max-width: 445px) {
 .navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -90px;
+  margin-top: -75px;
 }  
-
+#content{
+      margin-left: 5px;
+      margin-right: 5px;
+  }  
 
 }
