@@ -59,7 +59,7 @@ li {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1.2px solid black;
+  border: solid black;   
 }
 
 #long-container{
