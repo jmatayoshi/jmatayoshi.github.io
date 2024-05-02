@@ -28,3 +28,4 @@ https://jmatayoshi.github.io/publications/consolidated_transition_analysis.pdf
 https://jmatayoshi.github.io/publications/EDM2022_assessment_comparison.pdf
 https://jmatayoshi.github.io/publications/EDM2022_learning_practice.pdf
 https://jmatayoshi.github.io/publications/AIED2023_response_analysis_preprint.pdf
+https://jmatayoshi.github.io/publications/EDM2024_placement_evaluation.pdf
