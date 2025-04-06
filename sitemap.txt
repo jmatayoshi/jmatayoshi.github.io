@@ -31,3 +31,4 @@ https://jmatayoshi.github.io/publications/AIED2023_response_analysis_preprint.pd
 https://jmatayoshi.github.io/publications/EDM2024_placement_evaluation.pdf
 https://jmatayoshi.github.io/publications/CIinEDM2024_rw_experiment.pdf
 https://jmatayoshi.github.io/publications/US2024_nn_assessment_engine_appl.pdf
+https://jmatayoshi.github.io/publications/LAK2025_bias_sample_size.pdf
