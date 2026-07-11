@@ -34,3 +34,5 @@ https://jmatayoshi.github.io/publications/US2024_nn_assessment_engine_appl.pdf
 https://jmatayoshi.github.io/publications/LAK2025_bias_sample_size.pdf
 https://jmatayoshi.github.io/publications/EA2025_mathematical_strengths.pdf
 https://jmatayoshi.github.io/publications/JEDM2025_extended_rw_experiment.pdf
+https://jmatayoshi.github.io/publications/JLA_estimating_bias.pdf
+https://jmatayoshi.github.io/publications/student_genai_use_preprint.pdf
